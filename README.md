@@ -42,3 +42,8 @@ Takes the file and exports a file that can be used by gHRV. Requires that you ch
 ### HRV
 19. Load the file in gHRV and have fun.
 20. For more info read the gHRV documentation
+
+### Further analysis
+21. Export all the HRV data using gHRV
+22. Import it to the ipython notebook
+23. Use the functions to create awesome graphs
